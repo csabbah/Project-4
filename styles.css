@@ -472,7 +472,7 @@ nav {
 
 .about-us-container {
   width: 940px;
-  height: 607px;
+  height: 652px;
   overflow: hidden;
 }
 
@@ -563,6 +563,10 @@ nav {
     line-height: 1.6;
   }
 
+  .about-us-container {
+    height: 600px;
+  }
+
   .about-us-profiles {
     margin-left: 10px;
     margin-right: 10px;
@@ -577,6 +581,9 @@ nav {
     text-align: center;
   }
 
+  .single-profile {
+    overflow-y: hidden;
+  }
   .single-profile h4 {
     font-size: 12px;
   }
